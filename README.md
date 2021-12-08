@@ -4,5 +4,5 @@
 2. Install the required python libraries using the following command
     `pip install opencv-python imutils numpy pandas tesseract`
 3. Put the images inside a folder named _id-validate_.
-3. Run the main file using the following command.
+3. Run the main file using the following command
     `python main.py`
